@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\bruna.santos\Documents\ALURA\POO\.metadata\.plugins\org.eclipse.jdt.core
+2258321661.index
+4166028822.index
+1865797976.index
+3452394554.index
